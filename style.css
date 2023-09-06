@@ -4,7 +4,9 @@
 
 body {
   font-family: 'Roboto Mono', monospace;
-  width: 50%;
+  -webkit-transform: scale(0.5);
+       -moz-transform: scale(0.5);
+            transform: scale(0.5);
  // background-color: #c2e6e8;
 }
 
